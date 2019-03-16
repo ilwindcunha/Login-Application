@@ -1,0 +1,2 @@
+Run a http server in python use command
+python -m http.server portnumber
